@@ -1,4 +1,4 @@
-name: wallpaper_app
+name: my_wallpaper_app
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -35,10 +35,43 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  animated_text_kit: any
+  flutter_animate: any
+  animated_splash_screen: any
+  http: ^0.13.6
+  provider: ^6.1.2
+  google_fonts: any
+  get: ^4.6.5
+  firebase_core: any
+  firebase_auth: any
+  cloud_firestore: any
+  google_sign_in: any
+  flutter_login: any
+  font_awesome_flutter: any
+  flutter_staggered_grid_view: ^0.7.0
+  firebase_database: any
+  circular_menu: ^2.0.1
+  async_wallpaper: ^2.0.3
+  share_plus: any
+  url_launcher: any
+  path_provider: any
+  image_gallery_saver: ^2.0.3
+  image_picker: any
+
+
+
+
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/ic_launcher.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -60,6 +93,14 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   # assets:
+
+  assets:
+    - assets/my Ui/
+    - assets/icons/
+    - assets/images/
+    - assets/catImage/
+
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
@@ -75,6 +116,14 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   # fonts:
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Bold.ttf
+        - asset: fonts/Poppins-ExtraBold.ttf
+        - asset: fonts/Poppins-Medium.ttf
+        - asset: fonts/Poppins-Light.ttf
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
@@ -85,6 +134,10 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
+
+
+
+
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

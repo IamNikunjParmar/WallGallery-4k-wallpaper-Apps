@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wallpaper_app">
+    package="com.example.my_wallpaper_app">
    <application
-        android:label="wallpaper_app"
+        android:label="WallGallery"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
