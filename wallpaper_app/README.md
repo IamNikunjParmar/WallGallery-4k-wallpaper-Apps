@@ -12,7 +12,7 @@ WallGallery is an application designed for wallpaper enthusiasts. It offers a va
 ## 🚀 Technologies
 The following tools were used in this project:
 
- *Flutter
+* Flutter
 * Dart
 
 ## Features
