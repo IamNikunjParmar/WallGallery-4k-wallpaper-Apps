@@ -34,19 +34,28 @@ Create an account to sync your favorite wallpapers across multiple devices and a
 
 ## Screenshots
 
-<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/4b64ab55-d27d-4408-96f7-722d00feac0b" width = "300">
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/47a67b08-b7ba-467a-91fd-993ec4723372" width = "300">
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/89243569-0783-4a90-8312-685492897144" width = "300">
 
-<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/21175bbd-23a7-4889-a95a-0f0b80e99b64" width = "300">
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/0c82957d-77c9-47f3-b90c-87888944da5a" width = "300">
+
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/16f31158-72ee-4a78-9c98-0eac4093dc26" width = "300">
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/5c8c747d-c025-4364-a786-257744669f8d" width = "300">
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/61e2e895-9d10-4281-9a45-1fb088860537" width = "300">
+<img src = "" width = "300">
 
 *Explore a wide variety of wallpapers*
+<img src = "" width = "300">
+<img src = "" width = "300">
+<img src = "" width = "300">
+<img src = "" width = "300">
+<img src = "" width = "300">
+<img src = "" width = "300">
+<img src = "" width = "300">
 
-<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/27eb2626-dae0-4cc5-ba94-bb3efab8e41c" width = "300">
-
-<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/dac8cc91-142c-4dd4-8777-25795e998fe1" width = "300">
 
 
 *View wallpaper details and options to download or set as background*
 
 
 
-<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/21f98782-e893-4aef-99a1-3288c7033f37" width = "300">
