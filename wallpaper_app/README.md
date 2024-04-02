@@ -5,6 +5,10 @@
 
 WallGallery is an application designed for wallpaper enthusiasts. It offers a vast collection of high-quality wallpapers for users to explore, download, and set as their device backgrounds. With an intuitive interface and a wide range of wallpapers, WallGallery makes it easy for users to find the perfect background to personalize their devices.
 
+## Responbile Ui and Ux Design
+
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/af5b8dae-def3-450a-bfa2-93ae91c27372" width = "300">
+
 ## Features
 
 ### 1. Extensive Wallpaper Collection
