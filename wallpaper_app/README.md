@@ -1,16 +1,6 @@
 # my_wallpaper_app
 
-A new Flutter project.
 
-## Getting Started
+<img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/3406c0ef-3df9-4f9e-960e-3da55cecfef0" width = "300">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "" width = "300">
