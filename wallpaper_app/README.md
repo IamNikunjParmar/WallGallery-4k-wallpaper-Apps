@@ -39,6 +39,10 @@ Create an account to sync your favorite wallpapers across multiple devices and a
 <img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/27eb2626-dae0-4cc5-ba94-bb3efab8e41c" width = "300">
 
 <img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/dac8cc91-142c-4dd4-8777-25795e998fe1" width = "300">
+
+
 *View wallpaper details and options to download or set as background*
+
+
 
 <img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/21f98782-e893-4aef-99a1-3288c7033f37" width = "300">
