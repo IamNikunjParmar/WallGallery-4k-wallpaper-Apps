@@ -9,6 +9,22 @@ WallGallery is an application designed for wallpaper enthusiasts. It offers a va
 
 <img src = "https://github.com/IamNikunjParmar/WallGallery-4k-wallpaper-Apps/assets/121547318/af5b8dae-def3-450a-bfa2-93ae91c27372" width = "300">
 
+## 🚀 Technologies
+The following tools were used in this project:
+
+1.Flutter
+2.Dart
+3.Api Calling
+4.MySQL
+5.Firebase
+6.Provider
+7.Getx
+8.Github
+9.Figma
+10.Canva 
+11.Google Authentication
+
+
 ## Features
 
 ### 1. Extensive Wallpaper Collection
