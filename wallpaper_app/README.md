@@ -12,8 +12,19 @@ WallGallery is an application designed for wallpaper enthusiasts. It offers a va
 ## 🚀 Technologies
 The following tools were used in this project:
 
-* Flutter
-* Dart
+*  Flutter
+*  Dart
+*  Api Calling
+*  MySQL
+*  Firebase
+*  Provider
+*  Getx
+*  Github
+*  Figma
+*  Canva
+*  Google Authentication
+
+
 
 ## Features
 
